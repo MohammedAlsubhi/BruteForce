@@ -1,8 +1,12 @@
-# BruteForce
-# Best BruteForce Script
-created by : Ari R. Abdulla
-# 18/1/2018
-
-Facebook: Ari R. Abdulla
-Twitter: Ari R. Abdulla
-Youtube: Mr. H4CK3R
+#============================================================================================================
+#	
+#	Welcome To BruteForce Script
+#	Mohammed Alsubhi Script By : Mr. Robot
+#	=======================================
+#	My Number ::-0542295196
+#	Email::- saudi.robot123@gmail.com
+#	=======================================
+#	My Youtube Channel ::-
+#	https://www.youtube.com/c/MrRobotksa
+#
+#=
